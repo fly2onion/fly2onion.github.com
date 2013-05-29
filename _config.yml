@@ -12,11 +12,12 @@ pygments: true
 title : Onion
 tagline: Programmer's life
 author :
-  name : Fly
+  weibo : fly2onion
+  #name : Fly
   email : fly@onion.im
-  github : fly2onion
-  twitter : fly2onion
-  feedburner : fly2onion
+  #github : fly2onion
+  #twitter : fly2onion
+  #feedburner : fly2onion
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
